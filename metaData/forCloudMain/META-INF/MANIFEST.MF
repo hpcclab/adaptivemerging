@@ -1,0 +1,68 @@
+Manifest-Version: 1.0
+Class-Path: jersey-container-servlet.jar javax.ws.rs-api-2.0.jar jerse
+ y-client.jar jersey-common.jar jersey-container-servlet-core.jar jers
+ ey-server.jar aws-java-sdk-1.11.236.jar aws-java-sdk-mediaconvert-1.1
+ 1.236.jar jmespath-java-1.11.236.jar aws-java-sdk-mediastore-1.11.236
+ .jar aws-java-sdk-mediastoredata-1.11.236.jar aws-java-sdk-medialive-
+ 1.11.236.jar aws-java-sdk-mediapackage-1.11.236.jar aws-java-sdk-cost
+ explorer-1.11.236.jar aws-java-sdk-pricing-1.11.236.jar aws-java-sdk-
+ mobile-1.11.236.jar aws-java-sdk-cloudhsmv2-1.11.236.jar aws-java-sdk
+ -glue-1.11.236.jar aws-java-sdk-migrationhub-1.11.236.jar aws-java-sd
+ k-dax-1.11.236.jar aws-java-sdk-greengrass-1.11.236.jar aws-java-sdk-
+ athena-1.11.236.jar aws-java-sdk-marketplaceentitlement-1.11.236.jar 
+ aws-java-sdk-codestar-1.11.236.jar aws-java-sdk-lexmodelbuilding-1.11
+ .236.jar aws-java-sdk-resourcegroupstaggingapi-1.11.236.jar aws-java-
+ sdk-pinpoint-1.11.236.jar aws-java-sdk-xray-1.11.236.jar aws-java-sdk
+ -opsworkscm-1.11.236.jar aws-java-sdk-support-1.11.236.jar aws-java-s
+ dk-simpledb-1.11.236.jar aws-java-sdk-servicecatalog-1.11.236.jar aws
+ -java-sdk-servermigration-1.11.236.jar aws-java-sdk-simpleworkflow-1.
+ 11.236.jar aws-java-sdk-storagegateway-1.11.236.jar aws-java-sdk-rout
+ e53-1.11.236.jar aws-java-sdk-s3-1.11.236.jar aws-java-sdk-importexpo
+ rt-1.11.236.jar aws-java-sdk-sts-1.11.236.jar aws-java-sdk-sqs-1.11.2
+ 36.jar aws-java-sdk-rds-1.11.236.jar aws-java-sdk-redshift-1.11.236.j
+ ar aws-java-sdk-elasticbeanstalk-1.11.236.jar aws-java-sdk-glacier-1.
+ 11.236.jar aws-java-sdk-iam-1.11.236.jar aws-java-sdk-datapipeline-1.
+ 11.236.jar aws-java-sdk-elasticloadbalancing-1.11.236.jar aws-java-sd
+ k-elasticloadbalancingv2-1.11.236.jar aws-java-sdk-emr-1.11.236.jar a
+ ws-java-sdk-elasticache-1.11.236.jar aws-java-sdk-elastictranscoder-1
+ .11.236.jar aws-java-sdk-ec2-1.11.236.jar aws-java-sdk-dynamodb-1.11.
+ 236.jar aws-java-sdk-sns-1.11.236.jar aws-java-sdk-budgets-1.11.236.j
+ ar aws-java-sdk-cloudtrail-1.11.236.jar aws-java-sdk-cloudwatch-1.11.
+ 236.jar aws-java-sdk-logs-1.11.236.jar aws-java-sdk-events-1.11.236.j
+ ar aws-java-sdk-cognitoidentity-1.11.236.jar aws-java-sdk-cognitosync
+ -1.11.236.jar aws-java-sdk-directconnect-1.11.236.jar aws-java-sdk-cl
+ oudformation-1.11.236.jar aws-java-sdk-cloudfront-1.11.236.jar aws-ja
+ va-sdk-clouddirectory-1.11.236.jar aws-java-sdk-kinesis-1.11.236.jar 
+ aws-java-sdk-opsworks-1.11.236.jar aws-java-sdk-ses-1.11.236.jar aws-
+ java-sdk-autoscaling-1.11.236.jar aws-java-sdk-cloudsearch-1.11.236.j
+ ar aws-java-sdk-cloudwatchmetrics-1.11.236.jar aws-java-sdk-codedeplo
+ y-1.11.236.jar aws-java-sdk-codepipeline-1.11.236.jar aws-java-sdk-km
+ s-1.11.236.jar aws-java-sdk-config-1.11.236.jar aws-java-sdk-lambda-1
+ .11.236.jar aws-java-sdk-ecs-1.11.236.jar aws-java-sdk-ecr-1.11.236.j
+ ar aws-java-sdk-cloudhsm-1.11.236.jar aws-java-sdk-ssm-1.11.236.jar a
+ ws-java-sdk-workspaces-1.11.236.jar aws-java-sdk-machinelearning-1.11
+ .236.jar aws-java-sdk-directory-1.11.236.jar aws-java-sdk-efs-1.11.23
+ 6.jar aws-java-sdk-codecommit-1.11.236.jar aws-java-sdk-devicefarm-1.
+ 11.236.jar aws-java-sdk-elasticsearch-1.11.236.jar aws-java-sdk-waf-1
+ .11.236.jar aws-java-sdk-marketplacecommerceanalytics-1.11.236.jar aw
+ s-java-sdk-inspector-1.11.236.jar aws-java-sdk-iot-1.11.236.jar aws-j
+ ava-sdk-api-gateway-1.11.236.jar aws-java-sdk-acm-1.11.236.jar aws-ja
+ va-sdk-gamelift-1.11.236.jar aws-java-sdk-dms-1.11.236.jar aws-java-s
+ dk-marketplacemeteringservice-1.11.236.jar aws-java-sdk-cognitoidp-1.
+ 11.236.jar aws-java-sdk-discovery-1.11.236.jar aws-java-sdk-applicati
+ onautoscaling-1.11.236.jar aws-java-sdk-snowball-1.11.236.jar aws-jav
+ a-sdk-rekognition-1.11.236.jar aws-java-sdk-polly-1.11.236.jar aws-ja
+ va-sdk-lightsail-1.11.236.jar aws-java-sdk-stepfunctions-1.11.236.jar
+  aws-java-sdk-health-1.11.236.jar aws-java-sdk-costandusagereport-1.1
+ 1.236.jar aws-java-sdk-codebuild-1.11.236.jar aws-java-sdk-appstream-
+ 1.11.236.jar aws-java-sdk-shield-1.11.236.jar aws-java-sdk-batch-1.11
+ .236.jar aws-java-sdk-lex-1.11.236.jar aws-java-sdk-mechanicalturkreq
+ uester-1.11.236.jar aws-java-sdk-organizations-1.11.236.jar aws-java-
+ sdk-workdocs-1.11.236.jar aws-java-sdk-core-1.11.236.jar commons-logg
+ ing-1.1.3.jar httpclient-4.5.2.jar httpcore-4.4.4.jar commons-codec-1
+ .9.jar ion-java-1.0.2.jar jackson-databind-2.6.7.1.jar jackson-annota
+ tions-2.6.0.jar jackson-core-2.6.7.jar jackson-dataformat-cbor-2.6.7.
+ jar joda-time-2.8.1.jar aws-java-sdk-models-1.11.236.jar aws-java-sdk
+ -swf-libraries-1.11.22.jar servlet-api.jar
+Main-Class: mainPackage.cloudMain
+

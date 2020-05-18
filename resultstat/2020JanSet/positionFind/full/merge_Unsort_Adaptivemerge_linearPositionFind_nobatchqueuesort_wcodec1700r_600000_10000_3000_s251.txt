@@ -1,0 +1,28 @@
+Filewcodec1700r_600000_10000_3000_s251.txt
+Stat for Queuesort=none mergable=true
+Machine 0 time elapsed:763488 time actually spent processing:644000
+completed: 192(205) requests, missed 174(186)
+task miss because of merging: 0
+Machine 1 time elapsed:761921 time actually spent processing:606460
+completed: 192(207) requests, missed 171(185)
+task miss because of merging: 0
+Machine 2 time elapsed:761921 time actually spent processing:577914
+completed: 192(206) requests, missed 171(184)
+task miss because of merging: 0
+Machine 3 time elapsed:761921 time actually spent processing:654323
+completed: 192(203) requests, missed 172(182)
+task miss because of merging: 0
+Machine 4 time elapsed:761921 time actually spent processing:643162
+completed: 192(205) requests, missed 173(184)
+task miss because of merging: 0
+Machine 5 time elapsed:771325 time actually spent processing:553031
+completed: 192(202) requests, missed 166(176)
+task miss because of merging: 0
+Machine 6 time elapsed:770771 time actually spent processing:617396
+completed: 192(203) requests, missed 168(179)
+task miss because of merging: 0
+Machine 7 time elapsed:761921 time actually spent processing:615073
+completed: 192(205) requests, missed 175(188)
+task miss because of merging: 0
+total completed: 1536(1636) missed 1370(1464)
+avgspentTime 613919

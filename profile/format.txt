@@ -1,0 +1,6 @@
+command,generatedConfignumber,GOP_ID,Averagetime,SD
+
+for merge info: there are 2 operations: r10 r20, s680 s720 , c:mp4 c:265, framerate saving are estimated
+
+all time in ms unit
+

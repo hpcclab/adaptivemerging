@@ -1,0 +1,2001 @@
+CONVERSION OF CODEC TO H.264 and VP9 for standard format 21
+
+real	0m10.785s
+user	0m8.832s
+sys	0m0.091s
+GOP standardoutput1.ts h.264
+
+real	0m16.786s
+user	0m16.678s
+sys	0m0.098s
+GOP standardoutput1.ts vp9
+
+
+real	0m25.956s
+user	0m8.462s
+sys	0m0.088s
+GOP standardoutput2.ts h.264
+
+real	0m15.890s
+user	0m15.787s
+sys	0m0.092s
+GOP standardoutput2.ts vp9
+
+
+real	0m9.550s
+user	0m9.038s
+sys	0m0.068s
+GOP standardoutput3.ts h.264
+
+real	0m19.363s
+user	0m16.064s
+sys	0m0.091s
+GOP standardoutput3.ts vp9
+
+
+real	0m17.559s
+user	0m8.483s
+sys	0m0.092s
+GOP standardoutput4.ts h.264
+
+real	0m16.431s
+user	0m16.324s
+sys	0m0.100s
+GOP standardoutput4.ts vp9
+
+
+real	0m15.257s
+user	0m8.266s
+sys	0m0.092s
+GOP standardoutput5.ts h.264
+
+real	0m15.446s
+user	0m15.333s
+sys	0m0.104s
+GOP standardoutput5.ts vp9
+
+
+real	0m12.357s
+user	0m8.755s
+sys	0m0.072s
+GOP standardoutput6.ts h.264
+
+real	0m15.951s
+user	0m15.856s
+sys	0m0.081s
+GOP standardoutput6.ts vp9
+
+
+real	0m34.464s
+user	0m9.937s
+sys	0m0.099s
+GOP standardoutput7.ts h.264
+
+real	0m16.554s
+user	0m16.434s
+sys	0m0.108s
+GOP standardoutput7.ts vp9
+
+
+real	0m28.105s
+user	0m9.013s
+sys	0m0.108s
+GOP standardoutput8.ts h.264
+
+real	0m17.270s
+user	0m17.145s
+sys	0m0.110s
+GOP standardoutput8.ts vp9
+
+
+real	0m5.995s
+user	0m2.608s
+sys	0m0.072s
+GOP standardoutput9.ts h.264
+
+real	0m4.800s
+user	0m4.702s
+sys	0m0.092s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m14.843s
+user	0m8.552s
+sys	0m0.068s
+GOP standardoutput1.ts h.264
+
+real	0m16.976s
+user	0m15.833s
+sys	0m0.110s
+GOP standardoutput1.ts vp9
+
+
+real	0m10.122s
+user	0m8.535s
+sys	0m0.088s
+GOP standardoutput2.ts h.264
+
+real	0m15.630s
+user	0m15.515s
+sys	0m0.100s
+GOP standardoutput2.ts vp9
+
+
+real	0m25.084s
+user	0m8.355s
+sys	0m0.100s
+GOP standardoutput3.ts h.264
+
+real	0m17.009s
+user	0m16.890s
+sys	0m0.109s
+GOP standardoutput3.ts vp9
+
+
+real	0m9.783s
+user	0m7.874s
+sys	0m0.096s
+GOP standardoutput4.ts h.264
+
+real	0m17.053s
+user	0m15.821s
+sys	0m0.104s
+GOP standardoutput4.ts vp9
+
+
+real	0m7.845s
+user	0m7.734s
+sys	0m0.105s
+GOP standardoutput5.ts h.264
+
+real	0m15.725s
+user	0m15.619s
+sys	0m0.100s
+GOP standardoutput5.ts vp9
+
+
+real	0m13.372s
+user	0m8.469s
+sys	0m0.076s
+GOP standardoutput6.ts h.264
+
+real	0m15.925s
+user	0m15.828s
+sys	0m0.080s
+GOP standardoutput6.ts vp9
+
+
+real	0m9.114s
+user	0m9.005s
+sys	0m0.064s
+GOP standardoutput7.ts h.264
+
+real	0m39.324s
+user	0m17.232s
+sys	0m0.080s
+GOP standardoutput7.ts vp9
+
+
+real	0m23.051s
+user	0m9.497s
+sys	0m0.096s
+GOP standardoutput8.ts h.264
+
+real	0m18.199s
+user	0m15.482s
+sys	0m0.103s
+GOP standardoutput8.ts vp9
+
+
+real	0m4.580s
+user	0m2.626s
+sys	0m0.056s
+GOP standardoutput9.ts h.264
+
+real	0m6.743s
+user	0m5.166s
+sys	0m0.092s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m12.449s
+user	0m8.927s
+sys	0m0.068s
+GOP standardoutput1.ts h.264
+
+real	0m16.642s
+user	0m16.455s
+sys	0m0.112s
+GOP standardoutput1.ts vp9
+
+
+real	0m11.579s
+user	0m8.465s
+sys	0m0.067s
+GOP standardoutput2.ts h.264
+
+real	0m18.318s
+user	0m15.570s
+sys	0m0.104s
+GOP standardoutput2.ts vp9
+
+
+real	0m9.341s
+user	0m8.539s
+sys	0m0.071s
+GOP standardoutput3.ts h.264
+
+real	0m17.793s
+user	0m15.750s
+sys	0m0.116s
+GOP standardoutput3.ts vp9
+
+
+real	0m12.501s
+user	0m8.598s
+sys	0m0.091s
+GOP standardoutput4.ts h.264
+
+real	0m17.337s
+user	0m15.858s
+sys	0m0.092s
+GOP standardoutput4.ts vp9
+
+
+real	0m10.534s
+user	0m8.044s
+sys	0m0.100s
+GOP standardoutput5.ts h.264
+
+real	0m15.232s
+user	0m14.880s
+sys	0m0.108s
+GOP standardoutput5.ts vp9
+
+
+real	0m8.162s
+user	0m8.093s
+sys	0m0.067s
+GOP standardoutput6.ts h.264
+
+real	0m29.262s
+user	0m15.927s
+sys	0m0.116s
+GOP standardoutput6.ts vp9
+
+
+real	0m13.407s
+user	0m10.878s
+sys	0m0.108s
+GOP standardoutput7.ts h.264
+
+real	0m17.770s
+user	0m17.594s
+sys	0m0.120s
+GOP standardoutput7.ts vp9
+
+
+real	0m8.829s
+user	0m8.667s
+sys	0m0.068s
+GOP standardoutput8.ts h.264
+
+real	0m16.486s
+user	0m16.281s
+sys	0m0.100s
+GOP standardoutput8.ts vp9
+
+
+real	0m3.984s
+user	0m2.714s
+sys	0m0.048s
+GOP standardoutput9.ts h.264
+
+real	0m7.813s
+user	0m5.112s
+sys	0m0.100s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m9.573s
+user	0m8.579s
+sys	0m0.064s
+GOP standardoutput1.ts h.264
+
+real	0m16.509s
+user	0m16.297s
+sys	0m0.076s
+GOP standardoutput1.ts vp9
+
+
+real	0m8.579s
+user	0m8.171s
+sys	0m0.072s
+GOP standardoutput2.ts h.264
+
+real	0m25.320s
+user	0m16.302s
+sys	0m0.088s
+GOP standardoutput2.ts vp9
+
+
+real	0m14.469s
+user	0m8.351s
+sys	0m0.104s
+GOP standardoutput3.ts h.264
+
+real	0m15.634s
+user	0m15.509s
+sys	0m0.113s
+GOP standardoutput3.ts vp9
+
+
+real	0m12.586s
+user	0m8.111s
+sys	0m0.092s
+GOP standardoutput4.ts h.264
+
+real	0m15.526s
+user	0m15.407s
+sys	0m0.112s
+GOP standardoutput4.ts vp9
+
+
+real	0m7.808s
+user	0m7.634s
+sys	0m0.072s
+GOP standardoutput5.ts h.264
+
+real	0m15.107s
+user	0m15.003s
+sys	0m0.093s
+GOP standardoutput5.ts vp9
+
+
+real	0m11.358s
+user	0m8.869s
+sys	0m0.064s
+GOP standardoutput6.ts h.264
+
+real	0m15.655s
+user	0m15.542s
+sys	0m0.104s
+GOP standardoutput6.ts vp9
+
+
+real	0m10.029s
+user	0m9.506s
+sys	0m0.075s
+GOP standardoutput7.ts h.264
+
+real	0m18.883s
+user	0m17.076s
+sys	0m0.091s
+GOP standardoutput7.ts vp9
+
+
+real	0m8.393s
+user	0m8.231s
+sys	0m0.072s
+GOP standardoutput8.ts h.264
+
+real	0m16.177s
+user	0m16.085s
+sys	0m0.078s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.570s
+user	0m2.525s
+sys	0m0.044s
+GOP standardoutput9.ts h.264
+
+real	0m16.130s
+user	0m4.695s
+sys	0m0.112s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m26.904s
+user	0m8.724s
+sys	0m0.048s
+GOP standardoutput1.ts h.264
+
+real	0m18.592s
+user	0m15.725s
+sys	0m0.100s
+GOP standardoutput1.ts vp9
+
+
+real	0m11.899s
+user	0m8.303s
+sys	0m0.087s
+GOP standardoutput2.ts h.264
+
+real	0m15.974s
+user	0m15.873s
+sys	0m0.089s
+GOP standardoutput2.ts vp9
+
+
+real	0m8.282s
+user	0m8.200s
+sys	0m0.075s
+GOP standardoutput3.ts h.264
+
+real	0m15.661s
+user	0m15.585s
+sys	0m0.068s
+GOP standardoutput3.ts vp9
+
+
+real	0m8.210s
+user	0m8.128s
+sys	0m0.072s
+GOP standardoutput4.ts h.264
+
+real	0m15.437s
+user	0m15.316s
+sys	0m0.088s
+GOP standardoutput4.ts vp9
+
+
+real	0m7.603s
+user	0m7.533s
+sys	0m0.064s
+GOP standardoutput5.ts h.264
+
+real	0m15.405s
+user	0m15.294s
+sys	0m0.101s
+GOP standardoutput5.ts vp9
+
+
+real	0m8.800s
+user	0m8.722s
+sys	0m0.072s
+GOP standardoutput6.ts h.264
+
+real	0m16.255s
+user	0m16.139s
+sys	0m0.100s
+GOP standardoutput6.ts vp9
+
+
+real	0m9.599s
+user	0m9.473s
+sys	0m0.098s
+GOP standardoutput7.ts h.264
+
+real	0m16.603s
+user	0m16.496s
+sys	0m0.100s
+GOP standardoutput7.ts vp9
+
+
+real	0m8.885s
+user	0m8.704s
+sys	0m0.069s
+GOP standardoutput8.ts h.264
+
+real	0m17.016s
+user	0m16.879s
+sys	0m0.118s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.729s
+user	0m2.643s
+sys	0m0.077s
+GOP standardoutput9.ts h.264
+
+real	0m5.433s
+user	0m5.021s
+sys	0m0.096s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m34.374s
+user	0m8.879s
+sys	0m0.118s
+GOP standardoutput1.ts h.264
+
+real	0m28.180s
+user	0m16.350s
+sys	0m0.104s
+GOP standardoutput1.ts vp9
+
+
+real	0m13.974s
+user	0m8.091s
+sys	0m0.108s
+GOP standardoutput2.ts h.264
+
+real	0m26.484s
+user	0m15.108s
+sys	0m0.112s
+GOP standardoutput2.ts vp9
+
+
+real	0m8.494s
+user	0m8.404s
+sys	0m0.070s
+GOP standardoutput3.ts h.264
+
+real	0m15.247s
+user	0m15.149s
+sys	0m0.092s
+GOP standardoutput3.ts vp9
+
+
+real	0m8.186s
+user	0m7.805s
+sys	0m0.088s
+GOP standardoutput4.ts h.264
+
+real	0m15.129s
+user	0m15.019s
+sys	0m0.088s
+GOP standardoutput4.ts vp9
+
+
+real	0m7.349s
+user	0m7.252s
+sys	0m0.090s
+GOP standardoutput5.ts h.264
+
+real	0m17.461s
+user	0m15.205s
+sys	0m0.080s
+GOP standardoutput5.ts vp9
+
+
+real	0m9.177s
+user	0m8.597s
+sys	0m0.080s
+GOP standardoutput6.ts h.264
+
+real	0m17.517s
+user	0m15.686s
+sys	0m0.082s
+GOP standardoutput6.ts vp9
+
+
+real	0m10.543s
+user	0m10.015s
+sys	0m0.078s
+GOP standardoutput7.ts h.264
+
+real	0m16.485s
+user	0m16.373s
+sys	0m0.096s
+GOP standardoutput7.ts vp9
+
+
+real	0m8.637s
+user	0m8.551s
+sys	0m0.083s
+GOP standardoutput8.ts h.264
+
+real	0m15.342s
+user	0m15.230s
+sys	0m0.100s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.467s
+user	0m2.408s
+sys	0m0.056s
+GOP standardoutput9.ts h.264
+
+real	0m4.876s
+user	0m4.602s
+sys	0m0.086s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m9.117s
+user	0m8.350s
+sys	0m0.064s
+GOP standardoutput1.ts h.264
+
+real	0m16.792s
+user	0m16.683s
+sys	0m0.100s
+GOP standardoutput1.ts vp9
+
+
+real	0m8.117s
+user	0m7.989s
+sys	0m0.055s
+GOP standardoutput2.ts h.264
+
+real	0m15.711s
+user	0m15.604s
+sys	0m0.093s
+GOP standardoutput2.ts vp9
+
+
+real	0m8.606s
+user	0m8.532s
+sys	0m0.066s
+GOP standardoutput3.ts h.264
+
+real	0m16.682s
+user	0m15.484s
+sys	0m0.101s
+GOP standardoutput3.ts vp9
+
+
+real	0m8.980s
+user	0m7.963s
+sys	0m0.072s
+GOP standardoutput4.ts h.264
+
+real	0m16.965s
+user	0m16.875s
+sys	0m0.073s
+GOP standardoutput4.ts vp9
+
+
+real	0m7.799s
+user	0m7.682s
+sys	0m0.086s
+GOP standardoutput5.ts h.264
+
+real	0m15.117s
+user	0m15.027s
+sys	0m0.081s
+GOP standardoutput5.ts vp9
+
+
+real	0m8.451s
+user	0m8.370s
+sys	0m0.075s
+GOP standardoutput6.ts h.264
+
+real	0m16.771s
+user	0m16.654s
+sys	0m0.100s
+GOP standardoutput6.ts vp9
+
+
+real	0m10.251s
+user	0m10.156s
+sys	0m0.088s
+GOP standardoutput7.ts h.264
+
+real	0m17.181s
+user	0m17.091s
+sys	0m0.084s
+GOP standardoutput7.ts vp9
+
+
+real	0m10.100s
+user	0m8.944s
+sys	0m0.096s
+GOP standardoutput8.ts h.264
+
+real	0m21.849s
+user	0m16.843s
+sys	0m0.118s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.554s
+user	0m2.497s
+sys	0m0.052s
+GOP standardoutput9.ts h.264
+
+real	0m4.523s
+user	0m4.450s
+sys	0m0.072s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m8.555s
+user	0m8.428s
+sys	0m0.068s
+GOP standardoutput1.ts h.264
+
+real	0m21.817s
+user	0m16.035s
+sys	0m0.106s
+GOP standardoutput1.ts vp9
+
+
+real	0m14.706s
+user	0m8.042s
+sys	0m0.101s
+GOP standardoutput2.ts h.264
+
+real	0m16.238s
+user	0m16.120s
+sys	0m0.108s
+GOP standardoutput2.ts vp9
+
+
+real	0m25.995s
+user	0m8.622s
+sys	0m0.072s
+GOP standardoutput3.ts h.264
+
+real	0m18.456s
+user	0m16.415s
+sys	0m0.129s
+GOP standardoutput3.ts vp9
+
+
+real	0m8.822s
+user	0m8.693s
+sys	0m0.079s
+GOP standardoutput4.ts h.264
+
+real	0m15.964s
+user	0m15.850s
+sys	0m0.104s
+GOP standardoutput4.ts vp9
+
+
+real	0m10.836s
+user	0m7.846s
+sys	0m0.076s
+GOP standardoutput5.ts h.264
+
+real	0m27.036s
+user	0m15.303s
+sys	0m0.104s
+GOP standardoutput5.ts vp9
+
+
+real	0m16.552s
+user	0m8.794s
+sys	0m0.072s
+GOP standardoutput6.ts h.264
+
+real	0m16.599s
+user	0m16.498s
+sys	0m0.064s
+GOP standardoutput6.ts vp9
+
+
+real	0m13.253s
+user	0m9.501s
+sys	0m0.072s
+GOP standardoutput7.ts h.264
+
+real	0m18.084s
+user	0m15.883s
+sys	0m0.108s
+GOP standardoutput7.ts vp9
+
+
+real	0m8.912s
+user	0m8.824s
+sys	0m0.080s
+GOP standardoutput8.ts h.264
+
+real	0m17.139s
+user	0m17.038s
+sys	0m0.089s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.714s
+user	0m2.649s
+sys	0m0.064s
+GOP standardoutput9.ts h.264
+
+real	0m4.966s
+user	0m4.880s
+sys	0m0.085s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m12.243s
+user	0m8.560s
+sys	0m0.080s
+GOP standardoutput1.ts h.264
+
+real	0m30.240s
+user	0m16.818s
+sys	0m0.108s
+GOP standardoutput1.ts vp9
+
+
+real	0m10.342s
+user	0m8.282s
+sys	0m0.088s
+GOP standardoutput2.ts h.264
+
+real	0m16.404s
+user	0m16.267s
+sys	0m0.118s
+GOP standardoutput2.ts vp9
+
+
+real	0m21.861s
+user	0m8.359s
+sys	0m0.080s
+GOP standardoutput3.ts h.264
+
+real	0m15.882s
+user	0m15.771s
+sys	0m0.100s
+GOP standardoutput3.ts vp9
+
+
+real	0m8.440s
+user	0m8.143s
+sys	0m0.111s
+GOP standardoutput4.ts h.264
+
+real	0m18.385s
+user	0m15.585s
+sys	0m0.104s
+GOP standardoutput4.ts vp9
+
+
+real	0m9.821s
+user	0m8.548s
+sys	0m0.113s
+GOP standardoutput5.ts h.264
+
+real	0m16.633s
+user	0m16.465s
+sys	0m0.109s
+GOP standardoutput5.ts vp9
+
+
+real	0m9.192s
+user	0m9.080s
+sys	0m0.080s
+GOP standardoutput6.ts h.264
+
+real	0m27.991s
+user	0m16.207s
+sys	0m0.116s
+GOP standardoutput6.ts vp9
+
+
+real	0m16.271s
+user	0m10.106s
+sys	0m0.100s
+GOP standardoutput7.ts h.264
+
+real	0m16.823s
+user	0m16.745s
+sys	0m0.068s
+GOP standardoutput7.ts vp9
+
+
+real	0m9.160s
+user	0m9.045s
+sys	0m0.053s
+GOP standardoutput8.ts h.264
+
+real	0m20.815s
+user	0m16.633s
+sys	0m0.123s
+GOP standardoutput8.ts vp9
+
+
+real	0m10.207s
+user	0m2.794s
+sys	0m0.052s
+GOP standardoutput9.ts h.264
+
+real	0m5.620s
+user	0m4.694s
+sys	0m0.113s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m9.965s
+user	0m8.359s
+sys	0m0.092s
+GOP standardoutput1.ts h.264
+
+real	0m16.185s
+user	0m15.860s
+sys	0m0.109s
+GOP standardoutput1.ts vp9
+
+
+real	0m14.675s
+user	0m8.743s
+sys	0m0.080s
+GOP standardoutput2.ts h.264
+
+real	0m16.344s
+user	0m16.175s
+sys	0m0.117s
+GOP standardoutput2.ts vp9
+
+
+real	0m8.878s
+user	0m8.620s
+sys	0m0.080s
+GOP standardoutput3.ts h.264
+
+real	0m18.134s
+user	0m15.772s
+sys	0m0.112s
+GOP standardoutput3.ts vp9
+
+
+real	0m19.132s
+user	0m8.369s
+sys	0m0.080s
+GOP standardoutput4.ts h.264
+
+real	0m15.924s
+user	0m15.780s
+sys	0m0.101s
+GOP standardoutput4.ts vp9
+
+
+real	0m8.269s
+user	0m8.184s
+sys	0m0.083s
+GOP standardoutput5.ts h.264
+
+real	0m16.309s
+user	0m16.172s
+sys	0m0.118s
+GOP standardoutput5.ts vp9
+
+
+real	0m13.750s
+user	0m8.699s
+sys	0m0.088s
+GOP standardoutput6.ts h.264
+
+real	0m16.322s
+user	0m16.171s
+sys	0m0.132s
+GOP standardoutput6.ts vp9
+
+
+real	0m9.859s
+user	0m9.785s
+sys	0m0.068s
+GOP standardoutput7.ts h.264
+
+real	1m47.610s
+user	0m16.717s
+sys	0m0.120s
+GOP standardoutput7.ts vp9
+
+
+real	0m8.976s
+user	0m8.750s
+sys	0m0.124s
+GOP standardoutput8.ts h.264
+
+real	0m16.675s
+user	0m15.923s
+sys	0m0.096s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.760s
+user	0m2.703s
+sys	0m0.056s
+GOP standardoutput9.ts h.264
+
+real	0m5.061s
+user	0m4.959s
+sys	0m0.096s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m11.497s
+user	0m8.683s
+sys	0m0.072s
+GOP standardoutput1.ts h.264
+
+real	0m16.459s
+user	0m16.300s
+sys	0m0.104s
+GOP standardoutput1.ts vp9
+
+
+real	0m8.706s
+user	0m8.591s
+sys	0m0.055s
+GOP standardoutput2.ts h.264
+
+real	0m19.882s
+user	0m16.451s
+sys	0m0.103s
+GOP standardoutput2.ts vp9
+
+
+real	0m9.507s
+user	0m8.753s
+sys	0m0.059s
+GOP standardoutput3.ts h.264
+
+real	0m16.170s
+user	0m16.078s
+sys	0m0.080s
+GOP standardoutput3.ts vp9
+
+
+real	0m8.092s
+user	0m7.958s
+sys	0m0.071s
+GOP standardoutput4.ts h.264
+
+real	0m15.764s
+user	0m15.656s
+sys	0m0.100s
+GOP standardoutput4.ts vp9
+
+
+real	0m8.669s
+user	0m7.779s
+sys	0m0.130s
+GOP standardoutput5.ts h.264
+
+real	0m19.298s
+user	0m15.462s
+sys	0m0.125s
+GOP standardoutput5.ts vp9
+
+
+real	0m8.941s
+user	0m8.845s
+sys	0m0.088s
+GOP standardoutput6.ts h.264
+
+real	0m16.595s
+user	0m16.476s
+sys	0m0.104s
+GOP standardoutput6.ts vp9
+
+
+real	0m10.270s
+user	0m10.158s
+sys	0m0.099s
+GOP standardoutput7.ts h.264
+
+real	0m17.739s
+user	0m17.590s
+sys	0m0.094s
+GOP standardoutput7.ts vp9
+
+
+real	0m9.156s
+user	0m9.073s
+sys	0m0.075s
+GOP standardoutput8.ts h.264
+
+real	0m16.333s
+user	0m16.236s
+sys	0m0.088s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.761s
+user	0m2.728s
+sys	0m0.032s
+GOP standardoutput9.ts h.264
+
+real	0m5.110s
+user	0m5.025s
+sys	0m0.080s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m8.267s
+user	0m8.186s
+sys	0m0.072s
+GOP standardoutput1.ts h.264
+
+real	0m18.115s
+user	0m16.312s
+sys	0m0.104s
+GOP standardoutput1.ts vp9
+
+
+real	0m8.264s
+user	0m8.185s
+sys	0m0.077s
+GOP standardoutput2.ts h.264
+
+real	0m15.666s
+user	0m15.539s
+sys	0m0.088s
+GOP standardoutput2.ts vp9
+
+
+real	0m16.200s
+user	0m8.688s
+sys	0m0.075s
+GOP standardoutput3.ts h.264
+
+real	0m15.320s
+user	0m15.209s
+sys	0m0.104s
+GOP standardoutput3.ts vp9
+
+
+real	0m9.535s
+user	0m7.819s
+sys	0m0.052s
+GOP standardoutput4.ts h.264
+
+real	0m15.382s
+user	0m15.274s
+sys	0m0.094s
+GOP standardoutput4.ts vp9
+
+
+real	0m7.962s
+user	0m7.670s
+sys	0m0.048s
+GOP standardoutput5.ts h.264
+
+real	0m14.891s
+user	0m14.750s
+sys	0m0.082s
+GOP standardoutput5.ts vp9
+
+
+real	0m12.187s
+user	0m8.309s
+sys	0m0.080s
+GOP standardoutput6.ts h.264
+
+real	0m15.727s
+user	0m15.593s
+sys	0m0.120s
+GOP standardoutput6.ts vp9
+
+
+real	0m10.058s
+user	0m9.767s
+sys	0m0.092s
+GOP standardoutput7.ts h.264
+
+real	0m17.003s
+user	0m16.904s
+sys	0m0.092s
+GOP standardoutput7.ts vp9
+
+
+real	0m8.748s
+user	0m8.594s
+sys	0m0.047s
+GOP standardoutput8.ts h.264
+
+real	0m16.160s
+user	0m16.021s
+sys	0m0.104s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.582s
+user	0m2.541s
+sys	0m0.040s
+GOP standardoutput9.ts h.264
+
+real	0m9.748s
+user	0m4.577s
+sys	0m0.092s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m11.027s
+user	0m8.244s
+sys	0m0.075s
+GOP standardoutput1.ts h.264
+
+real	0m15.971s
+user	0m15.874s
+sys	0m0.084s
+GOP standardoutput1.ts vp9
+
+
+real	0m13.651s
+user	0m8.084s
+sys	0m0.096s
+GOP standardoutput2.ts h.264
+
+real	0m15.873s
+user	0m15.729s
+sys	0m0.090s
+GOP standardoutput2.ts vp9
+
+
+real	0m9.094s
+user	0m8.751s
+sys	0m0.084s
+GOP standardoutput3.ts h.264
+
+real	0m15.891s
+user	0m15.777s
+sys	0m0.105s
+GOP standardoutput3.ts vp9
+
+
+real	0m8.461s
+user	0m7.903s
+sys	0m0.067s
+GOP standardoutput4.ts h.264
+
+real	0m16.333s
+user	0m16.206s
+sys	0m0.115s
+GOP standardoutput4.ts vp9
+
+
+real	0m8.101s
+user	0m7.977s
+sys	0m0.063s
+GOP standardoutput5.ts h.264
+
+real	0m15.185s
+user	0m15.091s
+sys	0m0.084s
+GOP standardoutput5.ts vp9
+
+
+real	0m10.477s
+user	0m8.881s
+sys	0m0.088s
+GOP standardoutput6.ts h.264
+
+real	0m15.911s
+user	0m15.118s
+sys	0m0.089s
+GOP standardoutput6.ts vp9
+
+
+real	0m11.386s
+user	0m9.706s
+sys	0m0.088s
+GOP standardoutput7.ts h.264
+
+real	0m27.246s
+user	0m17.046s
+sys	0m0.104s
+GOP standardoutput7.ts vp9
+
+
+real	0m10.348s
+user	0m10.227s
+sys	0m0.107s
+GOP standardoutput8.ts h.264
+
+real	0m18.128s
+user	0m17.928s
+sys	0m0.112s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.830s
+user	0m2.785s
+sys	0m0.037s
+GOP standardoutput9.ts h.264
+
+real	0m7.232s
+user	0m5.027s
+sys	0m0.123s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m13.865s
+user	0m8.457s
+sys	0m0.080s
+GOP standardoutput1.ts h.264
+
+real	0m29.521s
+user	0m16.183s
+sys	0m0.092s
+GOP standardoutput1.ts vp9
+
+
+real	0m8.524s
+user	0m8.439s
+sys	0m0.083s
+GOP standardoutput2.ts h.264
+
+real	0m17.328s
+user	0m15.887s
+sys	0m0.128s
+GOP standardoutput2.ts vp9
+
+
+real	0m11.580s
+user	0m8.757s
+sys	0m0.072s
+GOP standardoutput3.ts h.264
+
+real	0m15.908s
+user	0m15.778s
+sys	0m0.115s
+GOP standardoutput3.ts vp9
+
+
+real	0m7.903s
+user	0m7.827s
+sys	0m0.071s
+GOP standardoutput4.ts h.264
+
+real	0m16.366s
+user	0m16.081s
+sys	0m0.092s
+GOP standardoutput4.ts vp9
+
+
+real	0m11.182s
+user	0m7.688s
+sys	0m0.103s
+GOP standardoutput5.ts h.264
+
+real	0m26.320s
+user	0m15.385s
+sys	0m0.102s
+GOP standardoutput5.ts vp9
+
+
+real	0m15.999s
+user	0m8.372s
+sys	0m0.100s
+GOP standardoutput6.ts h.264
+
+real	0m15.741s
+user	0m15.650s
+sys	0m0.084s
+GOP standardoutput6.ts vp9
+
+
+real	0m12.837s
+user	0m9.680s
+sys	0m0.051s
+GOP standardoutput7.ts h.264
+
+real	0m20.838s
+user	0m16.287s
+sys	0m0.105s
+GOP standardoutput7.ts vp9
+
+
+real	0m9.295s
+user	0m9.220s
+sys	0m0.068s
+GOP standardoutput8.ts h.264
+
+real	0m16.601s
+user	0m16.500s
+sys	0m0.094s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.698s
+user	0m2.656s
+sys	0m0.036s
+GOP standardoutput9.ts h.264
+
+real	0m5.190s
+user	0m5.099s
+sys	0m0.088s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m28.107s
+user	0m8.694s
+sys	0m0.074s
+GOP standardoutput1.ts h.264
+
+real	0m17.209s
+user	0m17.047s
+sys	0m0.088s
+GOP standardoutput1.ts vp9
+
+
+real	0m8.575s
+user	0m8.503s
+sys	0m0.063s
+GOP standardoutput2.ts h.264
+
+real	0m16.717s
+user	0m16.594s
+sys	0m0.112s
+GOP standardoutput2.ts vp9
+
+
+real	0m10.575s
+user	0m8.651s
+sys	0m0.072s
+GOP standardoutput3.ts h.264
+
+real	0m26.920s
+user	0m16.237s
+sys	0m0.109s
+GOP standardoutput3.ts vp9
+
+
+real	0m8.131s
+user	0m8.041s
+sys	0m0.084s
+GOP standardoutput4.ts h.264
+
+real	0m16.196s
+user	0m16.070s
+sys	0m0.090s
+GOP standardoutput4.ts vp9
+
+
+real	0m9.246s
+user	0m8.158s
+sys	0m0.064s
+GOP standardoutput5.ts h.264
+
+real	0m17.193s
+user	0m15.763s
+sys	0m0.108s
+GOP standardoutput5.ts vp9
+
+
+real	0m9.062s
+user	0m8.964s
+sys	0m0.092s
+GOP standardoutput6.ts h.264
+
+real	0m36.625s
+user	0m16.412s
+sys	0m0.112s
+GOP standardoutput6.ts vp9
+
+
+real	0m11.076s
+user	0m9.716s
+sys	0m0.060s
+GOP standardoutput7.ts h.264
+
+real	0m29.540s
+user	0m19.044s
+sys	0m0.192s
+GOP standardoutput7.ts vp9
+
+
+real	0m11.775s
+user	0m9.450s
+sys	0m0.100s
+GOP standardoutput8.ts h.264
+
+real	0m18.511s
+user	0m16.768s
+sys	0m0.114s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.753s
+user	0m2.701s
+sys	0m0.048s
+GOP standardoutput9.ts h.264
+
+real	0m5.207s
+user	0m5.078s
+sys	0m0.091s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m9.182s
+user	0m9.054s
+sys	0m0.116s
+GOP standardoutput1.ts h.264
+
+real	0m16.651s
+user	0m16.520s
+sys	0m0.115s
+GOP standardoutput1.ts vp9
+
+
+real	0m28.065s
+user	0m8.791s
+sys	0m0.084s
+GOP standardoutput2.ts h.264
+
+real	0m16.587s
+user	0m16.479s
+sys	0m0.096s
+GOP standardoutput2.ts vp9
+
+
+real	0m8.808s
+user	0m8.566s
+sys	0m0.088s
+GOP standardoutput3.ts h.264
+
+real	0m19.253s
+user	0m15.872s
+sys	0m0.118s
+GOP standardoutput3.ts vp9
+
+
+real	0m12.469s
+user	0m8.059s
+sys	0m0.093s
+GOP standardoutput4.ts h.264
+
+real	0m21.200s
+user	0m15.909s
+sys	0m0.104s
+GOP standardoutput4.ts vp9
+
+
+real	0m8.228s
+user	0m8.108s
+sys	0m0.111s
+GOP standardoutput5.ts h.264
+
+real	0m17.931s
+user	0m14.880s
+sys	0m0.097s
+GOP standardoutput5.ts vp9
+
+
+real	0m8.801s
+user	0m8.531s
+sys	0m0.103s
+GOP standardoutput6.ts h.264
+
+real	0m16.285s
+user	0m16.165s
+sys	0m0.114s
+GOP standardoutput6.ts vp9
+
+
+real	0m34.064s
+user	0m10.327s
+sys	0m0.108s
+GOP standardoutput7.ts h.264
+
+real	1m54.296s
+user	0m17.881s
+sys	0m0.128s
+GOP standardoutput7.ts vp9
+
+
+real	0m9.510s
+user	0m9.356s
+sys	0m0.067s
+GOP standardoutput8.ts h.264
+
+real	0m16.372s
+user	0m16.262s
+sys	0m0.100s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.581s
+user	0m2.528s
+sys	0m0.052s
+GOP standardoutput9.ts h.264
+
+real	0m4.864s
+user	0m4.708s
+sys	0m0.080s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m15.588s
+user	0m8.285s
+sys	0m0.096s
+GOP standardoutput1.ts h.264
+
+real	0m16.629s
+user	0m16.469s
+sys	0m0.104s
+GOP standardoutput1.ts vp9
+
+
+real	0m11.308s
+user	0m8.227s
+sys	0m0.100s
+GOP standardoutput2.ts h.264
+
+real	0m17.256s
+user	0m16.704s
+sys	0m0.120s
+GOP standardoutput2.ts vp9
+
+
+real	0m9.593s
+user	0m9.016s
+sys	0m0.097s
+GOP standardoutput3.ts h.264
+
+real	0m16.627s
+user	0m16.500s
+sys	0m0.110s
+GOP standardoutput3.ts vp9
+
+
+real	0m8.655s
+user	0m8.387s
+sys	0m0.075s
+GOP standardoutput4.ts h.264
+
+real	0m16.870s
+user	0m16.742s
+sys	0m0.088s
+GOP standardoutput4.ts vp9
+
+
+real	0m7.941s
+user	0m7.860s
+sys	0m0.079s
+GOP standardoutput5.ts h.264
+
+real	0m22.031s
+user	0m15.853s
+sys	0m0.100s
+GOP standardoutput5.ts vp9
+
+
+real	0m14.641s
+user	0m8.916s
+sys	0m0.043s
+GOP standardoutput6.ts h.264
+
+real	0m15.879s
+user	0m15.769s
+sys	0m0.097s
+GOP standardoutput6.ts vp9
+
+
+real	0m16.775s
+user	0m10.464s
+sys	0m0.072s
+GOP standardoutput7.ts h.264
+
+real	0m19.718s
+user	0m18.395s
+sys	0m0.124s
+GOP standardoutput7.ts vp9
+
+
+real	0m9.430s
+user	0m9.347s
+sys	0m0.076s
+GOP standardoutput8.ts h.264
+
+real	0m18.033s
+user	0m16.940s
+sys	0m0.132s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.778s
+user	0m2.733s
+sys	0m0.044s
+GOP standardoutput9.ts h.264
+
+real	0m7.166s
+user	0m5.145s
+sys	0m0.112s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m12.608s
+user	0m10.155s
+sys	0m0.064s
+GOP standardoutput1.ts h.264
+
+real	0m18.008s
+user	0m16.558s
+sys	0m0.104s
+GOP standardoutput1.ts vp9
+
+
+real	0m9.325s
+user	0m8.289s
+sys	0m0.112s
+GOP standardoutput2.ts h.264
+
+real	0m15.909s
+user	0m15.804s
+sys	0m0.094s
+GOP standardoutput2.ts vp9
+
+
+real	0m12.404s
+user	0m8.373s
+sys	0m0.103s
+GOP standardoutput3.ts h.264
+
+real	0m16.243s
+user	0m16.123s
+sys	0m0.108s
+GOP standardoutput3.ts vp9
+
+
+real	0m7.879s
+user	0m7.718s
+sys	0m0.056s
+GOP standardoutput4.ts h.264
+
+real	0m15.851s
+user	0m15.531s
+sys	0m0.098s
+GOP standardoutput4.ts vp9
+
+
+real	0m10.129s
+user	0m8.125s
+sys	0m0.121s
+GOP standardoutput5.ts h.264
+
+real	0m15.786s
+user	0m15.626s
+sys	0m0.097s
+GOP standardoutput5.ts vp9
+
+
+real	0m8.543s
+user	0m8.438s
+sys	0m0.103s
+GOP standardoutput6.ts h.264
+
+real	0m17.167s
+user	0m16.634s
+sys	0m0.095s
+GOP standardoutput6.ts vp9
+
+
+real	0m10.229s
+user	0m9.890s
+sys	0m0.075s
+GOP standardoutput7.ts h.264
+
+real	0m17.536s
+user	0m17.397s
+sys	0m0.094s
+GOP standardoutput7.ts vp9
+
+
+real	0m12.467s
+user	0m9.059s
+sys	0m0.068s
+GOP standardoutput8.ts h.264
+
+real	0m16.722s
+user	0m16.611s
+sys	0m0.099s
+GOP standardoutput8.ts vp9
+
+
+real	0m3.371s
+user	0m2.836s
+sys	0m0.049s
+GOP standardoutput9.ts h.264
+
+real	0m5.156s
+user	0m5.051s
+sys	0m0.098s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m9.009s
+user	0m8.930s
+sys	0m0.066s
+GOP standardoutput1.ts h.264
+
+real	0m16.283s
+user	0m16.173s
+sys	0m0.100s
+GOP standardoutput1.ts vp9
+
+
+real	0m8.000s
+user	0m7.893s
+sys	0m0.084s
+GOP standardoutput2.ts h.264
+
+real	0m17.252s
+user	0m15.380s
+sys	0m0.095s
+GOP standardoutput2.ts vp9
+
+
+real	0m9.158s
+user	0m8.599s
+sys	0m0.088s
+GOP standardoutput3.ts h.264
+
+real	0m16.219s
+user	0m16.119s
+sys	0m0.092s
+GOP standardoutput3.ts vp9
+
+
+real	0m8.772s
+user	0m8.679s
+sys	0m0.083s
+GOP standardoutput4.ts h.264
+
+real	0m16.012s
+user	0m15.917s
+sys	0m0.082s
+GOP standardoutput4.ts vp9
+
+
+real	0m8.053s
+user	0m7.967s
+sys	0m0.079s
+GOP standardoutput5.ts h.264
+
+real	0m16.304s
+user	0m15.629s
+sys	0m0.092s
+GOP standardoutput5.ts vp9
+
+
+real	0m11.859s
+user	0m8.242s
+sys	0m0.085s
+GOP standardoutput6.ts h.264
+
+real	0m20.056s
+user	0m16.872s
+sys	0m0.092s
+GOP standardoutput6.ts vp9
+
+
+real	0m10.093s
+user	0m9.986s
+sys	0m0.099s
+GOP standardoutput7.ts h.264
+
+real	0m17.437s
+user	0m17.343s
+sys	0m0.081s
+GOP standardoutput7.ts vp9
+
+
+real	0m13.591s
+user	0m9.096s
+sys	0m0.092s
+GOP standardoutput8.ts h.264
+
+real	0m16.360s
+user	0m16.205s
+sys	0m0.086s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.651s
+user	0m2.598s
+sys	0m0.052s
+GOP standardoutput9.ts h.264
+
+real	0m5.078s
+user	0m4.967s
+sys	0m0.105s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------
+
+real	0m9.082s
+user	0m8.971s
+sys	0m0.075s
+GOP standardoutput1.ts h.264
+
+real	0m16.276s
+user	0m16.183s
+sys	0m0.086s
+GOP standardoutput1.ts vp9
+
+
+real	0m8.468s
+user	0m8.351s
+sys	0m0.111s
+GOP standardoutput2.ts h.264
+
+real	0m16.694s
+user	0m16.552s
+sys	0m0.121s
+GOP standardoutput2.ts vp9
+
+
+real	0m14.152s
+user	0m11.287s
+sys	0m0.104s
+GOP standardoutput3.ts h.264
+
+real	0m15.696s
+user	0m15.612s
+sys	0m0.072s
+GOP standardoutput3.ts vp9
+
+
+real	0m8.248s
+user	0m8.166s
+sys	0m0.071s
+GOP standardoutput4.ts h.264
+
+real	0m15.795s
+user	0m15.681s
+sys	0m0.102s
+GOP standardoutput4.ts vp9
+
+
+real	0m8.488s
+user	0m8.406s
+sys	0m0.076s
+GOP standardoutput5.ts h.264
+
+real	0m15.598s
+user	0m15.479s
+sys	0m0.108s
+GOP standardoutput5.ts vp9
+
+
+real	0m11.181s
+user	0m8.696s
+sys	0m0.060s
+GOP standardoutput6.ts h.264
+
+real	0m16.485s
+user	0m16.359s
+sys	0m0.110s
+GOP standardoutput6.ts vp9
+
+
+real	0m11.561s
+user	0m10.114s
+sys	0m0.092s
+GOP standardoutput7.ts h.264
+
+real	0m16.722s
+user	0m16.632s
+sys	0m0.076s
+GOP standardoutput7.ts vp9
+
+
+real	0m9.615s
+user	0m8.975s
+sys	0m0.064s
+GOP standardoutput8.ts h.264
+
+real	0m16.174s
+user	0m16.080s
+sys	0m0.080s
+GOP standardoutput8.ts vp9
+
+
+real	0m2.587s
+user	0m2.521s
+sys	0m0.065s
+GOP standardoutput9.ts h.264
+
+real	0m5.408s
+user	0m4.894s
+sys	0m0.108s
+GOP standardoutput9.ts vp9
+
+------------------------------------------------

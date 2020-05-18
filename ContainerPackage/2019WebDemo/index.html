@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>PC HLS video</title>
+    <link href="http://cdn.bootcss.com/video.js/6.0.0-RC.5/alt/video-js-cdn.min.css" rel="stylesheet">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <script src="http://cdn.bootcss.com/video.js/6.0.0-RC.5/video.js"></script>
+
+    <script src="http://cdn.bootcss.com/videojs-contrib-hls/5.3.3/videojs-contrib-hls.js"></script>
+
+</head>
+<body>
+
+<h1>PC web HLS(<code>.m3u8</code>) video</h1>
+
+ <select id="video_select">
+        <option value="streams/bbb_trailer640480/out.m3u8">bbb_trailer</option>
+        <option value="streams/ff_trailer_part1640480/out.m3u8">ff_trailer_part1</option>
+        <option value="streams/ff_trailer_part3640480/out.m3u8">ff_trailer_part3</option>       
+ </select>
+
+ <select id="resolution"  name=""> 
+    <option   value="">Select resolution</option> 
+    <option   value="720*480">720</option>   
+    <option   value="480*320">480</option>   
+</select>
+
+<select id="bitrate"  name=""> 
+        <option   value="">Select bittate</option> 
+        <option   value="512k">512k</option>   
+        <option   value="1M">1M</option>   
+</select>
+
+
+<select id="framerate"  name=""> 
+        <option   value="">Select frame rate</option> 
+        <option   value="23.97">23.97</option>   
+        <option   value="30">30</option>   
+</select>
+
+<select id="codec"  name=""> 
+        <option   value="">Select codec</option> 
+        <option   value="H265">H265</option>   
+        <option   value="VP9">VP9</option>   
+</select>
+
+
+
+
+
+
+
+      
+<!-- start copied from Austin Demo	<script>
+      $(document).ready(function(){
+          $('#submit').click(function(event){
+              var videoname=$('#Videos').val();
+              var resolution=$('#resolution').val();
+              if(videoname !== null){
+                $.get('RequestController',{videoname:videoname, resolution:resolution},function(responseText){
+                    //$('#somediv').text(responseText);
+                    var player = videojs('example-video');
+                    var text = responseText;
+                   // /*
+                    player.src({
+                        src: text,
+                        type: 'application/x-mpegURL'
+                    });
+                   // */
+                    /*
+                    $('#vidsrc').attr('src',$(this).data(text));
+                    return false;
+                    */
+                    player.play();
+                });
+              }
+          });
+      });
+  </script> end copied from Austin Demo -->
+	
+	
+    <script>
+          $(document).ready(function(){
+            // bind change event to select
+            $('#video_select').on('change', function () {
+				
+				var videoname=$('#video_select').val();
+				
+				var selectedIndex=document.getElementById("video_select").selectedIndex;
+								
+				console.log("before if statement# videoname: " + selectedIndex);                
+				
+				const Http = new XMLHttpRequest();
+				
+				const url='http://localhost:9901/transcoderequest/?videoid='+selectedIndex+',cmd=resolution,setting=180';
+				
+				Http.responseType = 'text';
+				Http.open("GET", url, true);
+				Http.send();
+				
+				Http.onreadystatechange=(e)=>{				
+					console.log("Response before if statement: " + Http.responseText);				
+				}
+				
+				console.log("Response Type "+Http.responseType);
+												
+				
+				//if(Http.readyState == XMLHttpRequest.DONE){
+					console.log("Response in if statement: " + Http.responseText);               	 
+				
+					var dir = Http.response;
+                    var player = videojs('vplayer');
+					
+					console.log("videoname: " + videoname);                  
+					console.log("Response Text "+Http.response);
+                    
+					player.src({
+						  src: 'repositoryvideos/bbb_trailer/out.m3u8',
+                   //     src: videoname,
+                        type: 'application/x-mpegURL'
+                    });                   
+                    
+					player.play();
+             ///   }
+			});
+		  });
+    </script>
+
+
+
+  <!-- video source for testing
+  https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
+  https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+  https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8
+  http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8
+  http://www.streambox.fr/playlists/test_001/stream.m3u8 
+-->
+
+<!-- video player 1-->
+
+<!-- <video id="hls-video" width="720" height="480" class="video-js vjs-default-skin"
+       playsinline webkit-playsinline
+       autoplay controls preload="auto"
+       x-webkit-airplay="true" x5-video-player-fullscreen="true" x5-video-player-typ="h5"></video>
+    <!-- video source -->
+   <!-- <source src="https://video-dev.github.io/streams/x36xhzz/x36xhzz.m3u8" type="application/x-mpegURL">
+
+    <!-- click video source -->
+    <!--<source src="http://devstreaming.apple.com/videos/wwdc/2015/413eflf3lrh1tyo/413/hls_vod_mvp.m3u8" type="application/x-mpegURL">
+</video> -->
+
+<div id="VideoPlayer" >
+      <!--src="repositoryvideos/bbb_trailer/out.m3u8"  src="http://cvss-video-bucket.s3.amazonaws.com/output/ff_trailer_part1640480/out.m3u8"-->
+      <video id=vplayer width=900 height=450 style="margin: 0px auto;" class="video-js vjs-default-skin" controls="" autoplay="true">
+        <source id="videosrc" src="RealVideos/bbb_trailer/out.m3u8" 
+                type="application/x-mpegURL">
+      </video>
+      <script>
+          var player = videojs('vplayer');
+          player.play();
+      </script>
+</div>
+	
+	
+
+<!-- video player 2-->
+<!--<video id="vplayer" class="video-js vjs-16-9" controls preload="auto" data-setup="{}" width="720" height="480">
+  <source src="" type="application/x-mpegURL">
+  <p class="vjs-no-js">
+  To view this video please enable JavaScript, and consider upgrading to a web browser that
+  <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+  </p>
+  </video>-->
+
+<!--<script>
+    // XMLHttpRequest cannot load http://xxx/video.m3u8. No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'http://192.168.198.98:8000' is therefore not allowed access.
+    // because  videojs-contrib-hls need XHR get decode m3u8 file, if have problem please check your web brower
+    var player = videojs('vplayer',{
+        bigPlayButton : true, 
+        textTrackDisplay : false, 
+        posterImage: false,
+        errorDisplay : false,
+    })
+    player.play();
+  
+</script>-->
+
+
+
+
+</body>
+</html>
